@@ -5,7 +5,3 @@ def square_array(array)
   end
   new_array
 end
-  
-# def square_array(array)
-#   array.collect { |element| element ** 2 }
-# end
