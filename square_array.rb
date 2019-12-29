@@ -23,5 +23,8 @@
 
 
 
-def square_array
+def square_array(numbers)
+  square_array.each do |number|
+    number = number ** 2 
+  end
 end
